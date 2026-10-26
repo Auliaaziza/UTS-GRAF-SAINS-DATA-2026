@@ -17,6 +17,6 @@ Proyek ini membangun sistem rekomendasi item-based KNN menggunakan Neo4j dan Pyt
 
 ## File
 
-- `102_Aulia_Aziza_uts_graf.ipynb`: notebook pengerjaan beserta penjelasannya
-- `data_p1/events.csv`: data hasil filter P1
-- `data_p2/events.csv`: data hasil filter P2
+- `102_Aulia Aziza_uts graf.ipynb`: notebook pengerjaan beserta penjelasannya
+- `data_p1_events.csv`: data hasil filter P1
+- `data_p2_events.csv`: data hasil filter P2
